@@ -1,21 +1,30 @@
 project:
   type: website
+  resources:
+    - files/
 
 website:
-  title: "ian_o"
+  title: "Ian O'Donnell"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:your.email@university.edu"
+        aria-label: Email
+      - icon: github
+        href: https://github.com/odonnell-ian
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Ian O'Donnell"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false

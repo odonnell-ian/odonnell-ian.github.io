@@ -1,0 +1,12 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download CV (PDF)](files/cv.pdf){.btn .btn-primary}
+
+```{=html}
+<object data="files/cv.pdf" type="application/pdf" class="cv-embed">
+  <p>Your browser can't display the PDF here.
+  <a href="files/cv.pdf">Download it instead.</a></p>
+</object>
+```

@@ -1,7 +1,27 @@
 ---
-title: "ian_o"
+title: "Ian O'Donnell"
+subtitle: "PhD Candidate in Economics · [University Name]"
+# To add a photo: put it in files/ and uncomment the next line
+# image: files/profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:your.email@university.edu"
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/cv.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/odonnell-ian
 ---
 
-This is a Quarto website.
+I am a PhD candidate in Economics at [University Name]. My research focuses on
+[field 1] and [field 2]. [One or two sentences about the questions you work on.]
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am on the [2026–2027] academic job market.
+
+**Email:** [your.email\@university.edu](mailto:your.email@university.edu)
+
+**Office:** [Building, Room] · [University Name]

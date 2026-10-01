@@ -1,0 +1,50 @@
+---
+title: "Research"
+---
+
+## Job Market Paper
+
+::: {.paper}
+**[Paper Title]**<br>
+[Job Market Paper]{.paper-meta} · [[PDF](files/jmp.pdf)]
+
+<details>
+<summary>Abstract</summary>
+
+[Paste your abstract here.]
+
+</details>
+:::
+
+## Working Papers
+
+::: {.paper}
+**[Paper Title]**<br>
+[with Coauthor Name]{.paper-meta} · [[PDF](files/paper2.pdf)]
+
+<details>
+<summary>Abstract</summary>
+
+[Paste your abstract here.]
+
+</details>
+:::
+
+::: {.paper}
+**[Paper Title]**<br>
+[with Coauthor Name]{.paper-meta}
+
+<details>
+<summary>Abstract</summary>
+
+[Paste your abstract here.]
+
+</details>
+:::
+
+## Work in Progress
+
+::: {.paper}
+**[Project Title]**<br>
+[with Coauthor Name]{.paper-meta}
+:::
