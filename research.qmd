@@ -5,46 +5,54 @@ title: "Research"
 ## Job Market Paper
 
 ::: {.paper}
-**[Paper Title]**<br>
-[Job Market Paper]{.paper-meta} · [[PDF](files/jmp.pdf)]
+**Immigrant Earnings Assimilation and Job Mobility Restrictions**<br>
+[Job Market Paper]{.paper-meta} <!-- · [[PDF](files/jmp.pdf)] -->
 
+<!--
 <details>
 <summary>Abstract</summary>
 
 [Paste your abstract here.]
 
 </details>
+-->
+:::
+
+## Publications
+
+::: {.paper}
+**The Transformation of Canada's Temporary Foreign Worker Program**<br>
+[with Mikal Skuterud · *Canadian Public Policy*, 2022]{.paper-meta} <!-- · [[PDF](files/publication1.pdf)] -->
+
+<!--
+<details>
+<summary>Abstract</summary>
+
+[Paste your abstract here.]
+
+</details>
+-->
 :::
 
 ## Working Papers
 
 ::: {.paper}
-**[Paper Title]**<br>
-[with Coauthor Name]{.paper-meta} · [[PDF](files/paper2.pdf)]
+**Timing and Tenure: Evidence on Worker Earnings Growth and Firm Employment Growth**<br>
 
+
+<!--
 <details>
 <summary>Abstract</summary>
 
 [Paste your abstract here.]
 
 </details>
-:::
-
-::: {.paper}
-**[Paper Title]**<br>
-[with Coauthor Name]{.paper-meta}
-
-<details>
-<summary>Abstract</summary>
-
-[Paste your abstract here.]
-
-</details>
+-->
 :::
 
 ## Work in Progress
 
 ::: {.paper}
-**[Project Title]**<br>
-[with Coauthor Name]{.paper-meta}
+**A Tale of Two Seasons: Labour Market Seasonality**<br>
+[with Baxter Robinson]{.paper-meta}
 :::

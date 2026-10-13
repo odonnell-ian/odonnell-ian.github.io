@@ -5,21 +5,17 @@ project:
 
 website:
   title: "Ian O'Donnell"
+  site-url: https://odonnell-ian.github.io/website/
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
-      - href: cv.qmd
-        text: CV
     right:
       - icon: envelope
-        href: "mailto:your.email@university.edu"
+        href: "mailto:iodonnel@uwo.ca"
         aria-label: Email
-      - icon: github
-        href: https://github.com/odonnell-ian
-        aria-label: GitHub
   page-footer:
     center: "© 2026 Ian O'Donnell"
 
@@ -27,4 +23,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    body-classes: bg-banner
     toc: false

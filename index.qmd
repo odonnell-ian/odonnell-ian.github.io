@@ -1,27 +1,16 @@
 ---
 title: "Ian O'Donnell"
-subtitle: "PhD Candidate in Economics · [University Name]"
-# To add a photo: put it in files/ and uncomment the next line
-# image: files/profile.jpg
+subtitle: "PhD Candidate in Economics · University of Western Ontario"
+image: files/profile-suit.jpg
 about:
   template: jolla
-  links:
-    - icon: envelope
-      text: Email
-      href: "mailto:your.email@university.edu"
-    - icon: file-earmark-pdf
-      text: CV
-      href: files/cv.pdf
-    - icon: github
-      text: GitHub
-      href: https://github.com/odonnell-ian
 ---
 
-I am a PhD candidate in Economics at [University Name]. My research focuses on
-[field 1] and [field 2]. [One or two sentences about the questions you work on.]
+I am a PhD candidate in Economics at the University of Western Ontario. My research is in labour and macroeconomics, with a focus on earnings dynamics and worker mobility. My job market paper analyzes the cost of job mobility restrictions for immigrant workers.
 
-I am on the [2026–2027] academic job market.
+I am on the 2026–2027 academic job market.
 
-**Email:** [your.email\@university.edu](mailto:your.email@university.edu)
+**Email:** [iodonnel@uwo.ca](mailto:iodonnel@uwo.ca)
 
-**Office:** [Building, Room] · [University Name]
+**CV:** [PDF](files/CV_ODonnell_temp.pdf)
+

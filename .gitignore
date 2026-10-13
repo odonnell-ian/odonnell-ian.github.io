@@ -3,3 +3,6 @@
 **/*.quarto_ipynb
 .DS_Store
 Thumbs.db
+
+# Personal files kept locally, never published or pushed
+/_private/
