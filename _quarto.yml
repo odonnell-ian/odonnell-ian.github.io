@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - files/
+    - google764980d275752a89.html
 
 website:
   title: "Ian O'Donnell"
