@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Ian O'Donnell"
-  site-url: https://odonnell-ian.github.io/website/
+  site-url: https://odonnell-ian.github.io/
   navbar:
     left:
       - href: index.qmd

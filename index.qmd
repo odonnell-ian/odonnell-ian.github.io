@@ -1,6 +1,7 @@
 ---
 title: "Ian O'Donnell"
 subtitle: "PhD Candidate in Economics · University of Western Ontario"
+description-meta: "Ian O'Donnell is a PhD candidate in Economics at the University of Western Ontario working on labour and macroeconomics, earnings dynamics, and worker mobility."
 image: files/profile-suit.jpg
 about:
   template: jolla

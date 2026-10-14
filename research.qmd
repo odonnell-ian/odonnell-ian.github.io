@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description-meta: "Research by Ian O'Donnell, including a job market paper on immigrant earnings assimilation and job mobility restrictions."
 ---
 
 ## Job Market Paper
