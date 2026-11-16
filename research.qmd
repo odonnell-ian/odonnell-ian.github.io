@@ -3,7 +3,7 @@ title: "Research"
 description-meta: "Research by Ian O'Donnell, including a job market paper on immigrant earnings assimilation and job mobility restrictions."
 ---
 
-## Job Market Paper
+## Working Papers
 
 ::: {.paper}
 **Immigrant Earnings Assimilation and Job Mobility Restrictions**<br>
@@ -19,11 +19,9 @@ description-meta: "Research by Ian O'Donnell, including a job market paper on im
 -->
 :::
 
-## Publications
-
 ::: {.paper}
-**The Transformation of Canada's Temporary Foreign Worker Program**<br>
-[with Mikal Skuterud · *Canadian Public Policy*, 2022]{.paper-meta} <!-- · [[PDF](files/publication1.pdf)] -->
+**Timing and Tenure: Evidence on Worker Earnings Growth and Firm Employment Growth**<br>
+
 
 <!--
 <details>
@@ -35,11 +33,11 @@ description-meta: "Research by Ian O'Donnell, including a job market paper on im
 -->
 :::
 
-## Working Papers
+## Publication
 
 ::: {.paper}
-**Timing and Tenure: Evidence on Worker Earnings Growth and Firm Employment Growth**<br>
-
+**The Transformation of Canada's Temporary Foreign Worker Program**<br>
+[with Mikal Skuterud · *Canadian Public Policy*, 2022]{.paper-meta} · [[Journal](https://utppublishing.com/doi/full/10.3138/cpp.2021-093)]
 
 <!--
 <details>

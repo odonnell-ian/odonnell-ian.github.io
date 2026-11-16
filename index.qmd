@@ -7,9 +7,7 @@ about:
   template: jolla
 ---
 
-I am a PhD candidate in Economics at the University of Western Ontario. My research is in labour and macroeconomics, with a focus on earnings dynamics and worker mobility. My job market paper analyzes the cost of job mobility restrictions for immigrant workers.
-
-I am on the 2026–2027 academic job market.
+Hello! My research is in labour and macroeconomics, with a focus on earnings dynamics and worker mobility. My job market paper analyzes the cost of job mobility restrictions for immigrant workers.
 
 **Email:** [iodonnel@uwo.ca](mailto:iodonnel@uwo.ca)
 
